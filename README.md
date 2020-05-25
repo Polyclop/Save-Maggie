@@ -14,3 +14,6 @@ Please save Maggie from her terrible future
  - Game Dev : **Théo COCHETEL**
  - Game Design, Sound Design, Narration : **Myriam EL  HOUNIHI-DEHAUDT**, **Benjamin  AUDIBERT**
 
+ ## DOWNLOAD
+
+ Game available for **PC** and **MAC** on **<a href="https://polyclop.itch.io/save-maggie">Itch.io</a>**
